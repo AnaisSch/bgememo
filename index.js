@@ -108,3 +108,5 @@ console.log("attribute 5", this.attribute);
 const percentageWithFn = percentOf(5, 80);
 const percentageWithFnBis = percentOfBis(5, 100);
 console.log("attribute 6", this.attribute);
+
+// GIT WAS HERE
