@@ -7,4 +7,5 @@ git init                                        # initialise la sauvegarde d'un 
 git add <nom du fichier / dossier>              # ajouter les modifications au prochain commit
 git commit -m "<message à attacher au commit>"  # sauvegardé les modifications précédemment ajoutées
 git status                                      # affiche l'état de mon projet git à cet instant
-git log                                         # affiche l'historique des commits
+git log                                         # affiche l'historique des commits, pour sortir "q"
+git restore <nom fichier / dossier>             # remet le contenu du fichier à l'état du dernier commit
