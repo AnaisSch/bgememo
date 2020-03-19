@@ -1,6 +1,6 @@
 console.log('hello world !');
 let nbOfScreenColumns = 2;
-nbOfScreenColumns = "two"
+nbOfScreenColumns = "2"
     //variable2 = "J'ai changé de contenu";
 const nbOfTry = 3;
 // On ne réaffecte pas une variable constante (cette ligne va lamentablement échouer...)
